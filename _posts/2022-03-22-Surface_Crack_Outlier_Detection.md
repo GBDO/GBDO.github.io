@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Surface Crack Outlier Detection"
-categories: coding
+categories: ML
 tag: [python, ml]
 toc: true
 author_profile: false

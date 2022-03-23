@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "decision_tree"
-categories: coding
-tag: [python, sklearn]
+categories: ML
+tag: [python, ml, sklearn]
 toc: true
 author_profile: false
 ---

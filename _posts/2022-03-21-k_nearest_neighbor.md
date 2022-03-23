@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "k_nearest_neighbor"
-categories: coding
-tag: [python, sklearn]
+categories: ML
+tag: [python, ml, sklearn]
 toc: true
 author_profile: false
 ---
